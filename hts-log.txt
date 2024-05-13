@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 May 2024 16:14:13 at https://www.warp.dev +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://www.warp.dev* +*https://www.warp.dev*
+(winhttrack -qwr3C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://www.warp.dev -O1 "D:\dev\Dev" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://www.warp.dev* +*https://www.warp.dev* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:14:42	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.warp.dev/)
+16:17:56	Error: 	"Not Found" (404) at link https://www.warp.dev/action (from https://www.warp.dev/)
+16:17:56	Error: 	"Not Found" (404) at link https://www.warp.dev/window.location (from https://www.warp.dev/)
+16:17:58	Error: 	"Not Found" (404) at link https://www.warp.dev/blog/action (from https://www.warp.dev/blog/how-warp-works)
+16:17:58	Error: 	"Not Found" (404) at link https://www.warp.dev/blog/window.location (from https://www.warp.dev/blog/how-warp-works)
+16:17:59	Error: 	"Not Found" (404) at link https://www.warp.dev/privacy/action (from https://www.warp.dev/privacy/overview)
+16:17:59	Error: 	"Not Found" (404) at link https://www.warp.dev/privacy/window.location (from https://www.warp.dev/privacy/overview)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 37 seconds : 354 links scanned, 346 files written (106528749 bytes overall) [92974722 bytes received at 335648 bytes/sec], 18375497 bytes transferred using HTTP compression in 190 files, ratio 24%, 7.2 requests per connection
+(7 errors, 0 warnings, 0 messages)
